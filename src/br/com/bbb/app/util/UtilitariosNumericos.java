@@ -7,6 +7,10 @@ import java.util.Random;
 
 public class UtilitariosNumericos {
 
+	static {
+		
+	}
+	
 	private UtilitariosNumericos() {
 		//
 	}
